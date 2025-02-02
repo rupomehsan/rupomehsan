@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mahfujur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Md Rupom Ehsan</h1>
 <h3 align="center">Software Engineer from Bangladesh</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahfujurahman&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge" alt="mahfujurahman" />
+  <img src="https://komarev.com/ghpvc/?username=mdrupomehsan&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge" alt="mdrupomehsan" />
 </p>
 
 ---
@@ -18,14 +18,14 @@
   - *Server Management:* ![cPanel](https://img.shields.io/badge/cPanel-9B5A6D?style=for-the-badge&logo=cpanel&logoColor=white) ![hPanel](https://img.shields.io/badge/hPanel-22D3EE?style=for-the-badge&logo=hPanel&logoColor=white)  
   - *Virtualization & Containerization:* ![VPS](https://img.shields.io/badge/VPS-00A9E0?style=for-the-badge&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 - 💞️ *Open to collaboration on exciting software projects.*  
-- 📫 *Reach me at:* [mahfujurahman2020@gmail.com](mailto:mahfujurahman2020@gmail.com)  
-- 💻 *Watch me at:* [S M Mahfujur Rahman](https://mahfujurahman.github.io/portfolio)
+- 📫 *Reach me at:* [mdrupomehsan@gmail.com](mailto:mdrupomehsan@gmail.com)  
+- 💻 *Watch me at:* [Md Rupom Ehsan](https://mdrupomehsan.github.io/portfolio)
 
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MahfujuRahman&cache_seconds=86400" alt="GitHub Streak" width="420" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahfujuRahman&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=mdrupomehsan&cache_seconds=86400" alt="GitHub Streak" width="420" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrupomehsan&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200" />
 </p>
 
 ---
