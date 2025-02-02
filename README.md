@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=rupomehsan&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
   <img src="https://badges.pufler.dev/repos/rupomehsan" alt="Repos Badge"/>
   <img src="https://badges.pufler.dev/commits/monthly/rupomehsan" alt="Commits Badge"/>
-</p>\
+</p>
 
 ---
 
@@ -88,6 +88,9 @@
 </a>
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/hPanel-22D3EE?style=for-the-badge&logo=hPanel&logoColor=white">
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/VPS_Server-22D3EE?style=for-the-badge&logo=server&logoColor=white">
 </a>
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
