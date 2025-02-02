@@ -37,61 +37,61 @@
 ## 🛠️ Tech Stack  
 
 ### **🌐 Frontend:**  
-<a href="#" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>
-<a href="https://tailwindcss.com/" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </a>
-<a href="https://getbootstrap.com/" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
-<a href="https://vuejs.org/" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 </a>
-<a href="https://react.dev/" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </a>
 
 
 ### **🖥️ Backend:**  
-<a href="https://www.php.net/" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </a>
-<a href="https://laravel.com/" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/Laravel-EA4C89?style=for-the-badge&logo=laravel&logoColor=white">
 </a>
-<a href="https://nodejs.org/" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </a>
-<a href="https://expressjs.com/" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
 </a>
 
 ### **🛢️ Database:**  
-<a href="https://www.mysql.com/" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
-<a href="https://www.mongodb.com/" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </a>
 
 
 
 ### **🔧 DevOps & Hosting:**  
-<a href="https://cpanel.net/" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white">
 </a>
-<a href="https://www.hostinger.com/tutorials/what-is-hpanel" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/hPanel-22D3EE?style=for-the-badge&logo=hPanel&logoColor=white">
 </a>
-<a href="https://www.docker.com/" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </a>
 
