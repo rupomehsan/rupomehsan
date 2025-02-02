@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=fffff&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Md+Rupom+Ehsan;FULL+STACK+WEB+DEVELOPER&stroke=AAAAAA" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="center" style="box-shadow: 0 4px 20px rgba(255, 0, 0, 0.7);">
   <img src="https://sklc-tinymce-2021.s3.amazonaws.com/comp/2023/04/full-stack%20web%20development_1681290664.png" 
-       style="width:100%;height:250px;object-fit:cover; box-shadow: 0 4px 10px rgba(255, 0, 0, 0.7);" />
+       style="width:100%;height:250px;object-fit:cover;" />
 </p>
 
 <p align="center">
