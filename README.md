@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="display: inline-block; box-shadow: 0 4px 20px rgba(255, 0, 0, 0.7);">
-  <img src="[https://sklc-tinymce-2021.s3.amazonaws.com/comp/2023/04/full-stack%20web%20development_1681290664.png](https://www.theprimestep.com/wp-content/uploads/2024/02/Full-Stack-Development-768x432.png)" 
+  <img src="https://www.theprimestep.com/wp-content/uploads/2024/02/Full-Stack-Development-768x432.png" 
        style="width:100%;height:250px;object-fit:cover;" />
 </p>
 
