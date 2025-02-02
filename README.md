@@ -4,7 +4,7 @@
 
 <p align="center" style="display: inline-block; box-shadow: 0 4px 20px rgba(255, 0, 0, 0.7);">
   <img src="https://www.theprimestep.com/wp-content/uploads/2024/02/Full-Stack-Development-768x432.png" 
-       style="width:100%;object-fit:cover;" />
+       style="width:100%;height:300;object-fit:cover;" />
 </p>
 
 <p align="center">
