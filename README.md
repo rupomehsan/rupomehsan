@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdrupomehsan&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-  <img src="https://badges.pufler.dev/repos/mdrupomehsan" alt="Repos Badge"/>
-  <img src="https://badges.pufler.dev/commits/monthly/mdrupomehsan" alt="Commits Badge"/>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=rupomehsan&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://badges.pufler.dev/repos/rupomehsan" alt="Repos Badge"/>
+  <img src="https://badges.pufler.dev/commits/monthly/rupomehsan" alt="Commits Badge"/>
+</p>\
 
 ---
 
