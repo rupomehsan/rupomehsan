@@ -116,7 +116,7 @@
 
 <p align="center">
   <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api?username=rupomehsan&show_icons=true&theme=radical&line_height=27" alt="GitHub Stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupomehsan&layout=compact&theme=radical" alt="Top Languages">
+  <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupomehsan&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <p align="center">
