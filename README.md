@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://sklc-tinymce-2021.s3.amazonaws.com/comp/2023/04/full-stack%20web%20development_1681290664.png" style="width:100%;height:250px;object-fit:cover" />
+  <img src="https://sklc-tinymce-2021.s3.amazonaws.com/comp/2023/04/full-stack%20web%20development_1681290664.png" 
+       style="width:100%;height:250px;object-fit:cover; box-shadow: 0 4px 10px rgba(255, 255, 255, 0.5);" />
 </p>
 
 <p align="center">
