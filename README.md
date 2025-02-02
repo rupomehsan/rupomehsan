@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Engineer | Passionate about Development & Deployment</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdrupomehsan&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rupomehsan&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mdrupomehsan&cache_seconds=86400" alt="GitHub Streak" width="420" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrupomehsan&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=rupomehsan&cache_seconds=86400" alt="GitHub Streak" width="420" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupomehsan&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200" />
 </p>
 
 ---
