@@ -19,7 +19,7 @@
   <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 10px; width: 100%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
     <h2 style="font-family: Arial, sans-serif; color: #333;">About Me</h2>
     <p style="font-family: Arial, sans-serif; color: #555;">
-    Hello. I'm Rupom Ehsan from Bangladesh.
+    Hello. I'm Md Abu Ahsan from Bangladesh.
     I am a Full Stack Web Developer working with local and international clients since 2018.
     I can design or redesign your existing websites or web applications, build social profiles, and help you gain revenue and profits.
     It's not only my profession, it's my passion.
